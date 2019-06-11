@@ -1,0 +1,3 @@
+rootProject.name = 'morven_museum_timeli_4526'
+
+include ':app'
